@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/api/enviar-pedido", "destination": "/api/enviar-pedido.js" }
-  ]
-}
